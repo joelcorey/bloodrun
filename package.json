@@ -8,11 +8,11 @@
   "license": "MIT",
   "devDependencies": {
     "babel-core": "6",
-    "babel-loader": "^7.0.0",
+    "babel-loader": "^8.0.5",
     "babel-preset-env": "^1.7.0",
     "copy-webpack-plugin": "^4.6.0",
-    "webpack": "^3.0.0",
-    "webpack-dev-server": "^2.0.0"
+    "webpack": "^4.29.4",
+    "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {
     "phaser": "^3.0.0"
